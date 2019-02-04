@@ -1,0 +1,46 @@
+#header_block
+{
+    background:#2874f0;
+}
+
+.logoblock.logo
+{
+    width:13%;
+    float:left;
+    margin: 0
+    
+}
+.search{
+    width: 60%;
+    float: left;
+   
+}
+.loginblock{
+    width: 27%;
+    float:left;
+}
+.loginblock a{
+    color: white;
+}
+
+body
+{
+font-family:Roboto,Arial,sans-serif;
+margin:0px;
+}
+.container{
+    width:90%;
+    margin: 0 auto;
+ 
+}
+
+input{
+    padding: 0 16px;
+    border-radius: 2px 0 0 2px;
+    border: 0 none;
+    outline: 0 none;
+    font-size: 14px;
+    height: 36px;
+    width: 80%;
+}
+}
